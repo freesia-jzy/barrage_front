@@ -1,0 +1,49 @@
+.register-main {
+  width: 100%;
+  position: absolute;
+  top: 50%;
+  margin-top: -180px;
+}
+.input-list input {
+  display: block;
+  width: 80%;
+  height: 40px;
+  margin-left: 10%;
+  margin-top: 25px;
+  border-radius: 5px;
+  border: solid 1px #cbcbcb;
+  font-size: 18px;
+  padding-left: 10px;
+  background: #fff;
+}
+.register-button {
+  width: 83%;
+  height: 42px;
+  background: #64a9e2;
+  margin-left: 10%;
+  margin-top: 25px;
+  border-radius: 5px;
+  border: solid 1px #cbcbcb;
+  font-size: 20px;
+  color: #fff;
+}
+.register-back {
+  width: 100%;
+  height: 40px;
+  background: #64a9e2;
+  position: relative;
+}
+.register-back img {
+  height: 30px;
+  margin-top: 5px;
+  margin-left: 5px;
+}
+.register-back a {
+  color: #fff;
+  font-size: 20px;
+  position: absolute;
+  left: 5px;
+  top: 13px;
+  text-decoration: none;
+  margin-left: 30px;
+}
